@@ -2,7 +2,7 @@
 
 let nomeHeroi = "Homem  Aranha";
 let xpHeroi =  10000;
-// Variável para amarzenar o nível do herói
+
 
 
 
